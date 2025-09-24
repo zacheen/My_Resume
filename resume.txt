@@ -1,0 +1,60 @@
+﻿Yu-Chang Shih
+shih.yuc@northeastern.edu • (+1) 408-210-4509 • LinkedIn • Github
+
+
+EDUCATION
+Northeastern University, San Jose, CA        September 2025 - May 2027
+Master of Science in Artificial Intelligence
+
+
+National Sun Yat-sen University, Kaohsiung, Taiwan        September 2015 - June 2019
+Bachelor of Science in Computer Science and Engineering
+* Capstone Project: Real-time System of Identifying Coin, an Android app that identifies coins from pictures through a CNN model using the CapsNet structure.
+* Award: Excellent Student Award (2019)
+
+
+TECHNICAL SKILLS
+Expert: Python (with Pytorch, TensorFlow, Keras), Machine Learning, C#, C++, Java
+* Leetcode Contest Rating 1953, global rank top 3.19%
+Proficient: Docker, Go, Android Studio, HTML, JavaScript, MATLAB, Lua       Familiar: Shell Script, Unreal, Unity, R
+Languages: Chinese, English
+
+
+EXPERIENCE
+Apollo Medical Optics, Ltd., Taipei, Taiwan         May 2022 - August 2023
+Algorithm Engineer
+* Developed cell detection algorithms for OCT images in C++ and translated team's code from MATLAB to C++
+* Optimized the code to balance accuracy and execution speed, resulting in several related research publications
+* As a contact person for the clinical department, assisted colleagues in avoiding tedious work by creating elegant solutions using C#
+* Managed a 3D dense segmentation project and achieved an accuracy of 80% by adopting post-processing rules
+* Discovered illogical code in the image preprocessing procedure while writing specifications, and created a program that automatically adjusts the parameters to align the modification
+
+
+Future Tech, Taipei, Taiwan        
+Backend Engineer        August 2021 - March 2022
+* Used Lua to develop four games integrated into the backend server, by implementing game logic and computer AI reactions, connecting the backend server to both the frontend and the website's backstage through RPC and API, computing game results, and saving them in the database
+* Optimized the server by balancing the usage of each database server through a new hash function, increasing player capacity by 20%
+* Updated server management tools: deployed and managed Nginx servers in a Docker environment, configured server connection, and integrated Redis with MySQL to improve performance through asynchronous databases
+Automated Testing Engineer        July 2020 - August 2021
+* Developed a fully automated testing library to detect game flows and play games automatically with OpenCV and PyAutoGUI, identify screen information through object detection, check game logic to compare its data from the frontend to the website's backstage, and generate test reports in HTML
+* Enhanced test coverage by extracting information with Machine Learning and training three partners in Python through generating questionnaires and examples
+* Represented automated testing as the main programmer (on a business trip??): confirmed that the online website was updated successfully, discussed the priorities for each test case with the project manager, and listed the testing time of each game after introducing automated testing
+
+
+JOURNAL PAPERS
+Activated melanocytes and senescent collagen fibers predict laser-treated melasma outcomes: An optical biopsy–based prospective cohort study        May 2025
+Yen-Jen Wang, Chang-Cheng Chang, Yu-Hung Wu, Ling Huang, I-Ling Chen, Yu-Chang Shih, Hsing Cheng, Jia-Wei Shen, Meng-En Lu, Hsiu-Mei Chiang, and Bor-Shyh Lin
+* Photodiagnosis and Photodynamic Therapy, Volume 54, August 2025
+* https://doi.org/10.1016/j.pdpdt.2025.104648
+
+
+Photoaging features of melasma: An in vivo layered and quantitative analysis using computer-aided detection of cellular resolution full-field optical coherence tomography        March 2024
+Chang-Cheng Chang, Yen-Jen Wang, Ling Huang, I-Ling Chen, Yu-Chang Shih, Jia-Wei Shen, Meng-En Lu, Hsiu-Mei Chiang, Bor-Shyh Lin, and Yu-Hung Wu
+* Journal of the European Academy of Dermatology and Venereology, Volume 38, Issue 10, Pages e870-e873
+* https://doi.org/10.1111/jdv.19971
+
+
+Feasibility of high-cellular-resolution full-field, artificial-intelligence-assisted, real-time optical coherence tomography in the evaluation of vitiligo: A prospective longitudinal follow-up study        February 2024
+Lai-Ying Lu, Yi-Ting Chen, I-Ling Chen, Yu-Chang Shih, Rosalie Tzu-Li Liu, Yi-Jing Lai, and Chau Yee Ng
+* Bioengineering 2024, 11(2), 196
+* https://doi.org/10.3390/bioengineering11020196
