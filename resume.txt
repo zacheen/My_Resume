@@ -21,7 +21,7 @@ Algorithm Engineer
 * Improved and optimized algorithms to achieve the best balance between efficiency and accuracy, producing high-quality data that supported three research publications
 * Managed a 3D nucleus dense segmentation project with the StarDist 3D CNN model, achieving 80% accuracy after improving performance by 3% through model adjustments and 5% through post-processing rules
 * As the contact person for the clinical department, assisted colleagues in avoiding tedious work by creating elegant solutions using C#, such as highlighting mask result differences between versions and automating data generation
-* Discovered illogical code in the image preprocessing procedure while writing specifications, and created a program that automatically adjusts the parameters to align the modification, achieving only a 6% gap due to algorithm limitations
+* Discovered illogical code in the image preprocessing procedure while writing specifications, and created a program that automatically adjusts parameters to align with others’ modifications, reducing gap to 6% despite constraints of algorithm
 
 
 Future Tech, Taipei, Taiwan        
