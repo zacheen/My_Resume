@@ -19,20 +19,22 @@ Algorithm Engineer
 * Developed novel cell detection algorithms for OCT images in C++, such as subtracting white and black Frangi values to reduce misidentification at collagen Y-shaped intersections
 * Implemented C++ counterparts for manager’s MATLAB algorithms by researching academic papers and official docs
 * Improved and optimized algorithms to achieve the best balance between efficiency and accuracy, producing high-quality data that supported three research publications
-* Managed a 3D nucleus dense segmentation project with the StarDist 3D CNN model, achieving 80% accuracy after improving performance by 3% through model adjustments and 5% through post-processing rules
-* As the contact person for the clinical department, assisted colleagues in avoiding tedious work by creating elegant solutions using C#, such as highlighting mask result differences between versions and automating data generation
+* Managed a 3D nucleus dense segmentation project with StarDist 3D CNN model, achieving 80% accuracy after improving performance by 3% through model adjustments and 5% through post-processing rules
+* As the contact person for the clinical department, assisted colleagues by creating solutions using C#, such as highlighting mask result differences between versions and automating data generation
 * Discovered illogical code in the image preprocessing procedure while writing specifications, and created a program that automatically adjusts parameters to align with others’ modifications, reducing gap to 6% despite constraints of algorithm
 
 
 Future Tech, Taipei, Taiwan        
 Backend Engineer        August 2021 - March 2022
 * Used Lua to develop four games integrated into the backend server, by implementing game logic and computer AI reactions, connecting the backend server to both the frontend and the website's backstage through RPC and API, computing game results, and saving them in the database
-* Optimized the server by balancing the usage of each database server through a new hash function (design specific for the user ID pattern), increasing player capacity by 20%
-* Updated server management tools: deployed and managed Nginx servers in a Docker environment, configured server connection, and integrated Redis with MySQL to improve performance through asynchronous databases
+* Optimized server performance by balancing the usage of each database through a designated hash function designed for user ID patterns, increasing player capacity by 20%
+* Updated server management tools: deployed and managed Nginx servers in a Docker environment, configured settings to connect these servers, and integrated Redis with MySQL to improve performance through asynchronous databases
+
+
 Automated Testing Engineer        July 2020 - August 2021
-* Developed a fully automated testing library from scratch that detects game flows and plays games automatically using OpenCV and PyAutoGUI, identifies screen information through object detection to verify game logic and compare frontend data with the data scraped from our website's backstage, and generates test reports in HTML—ultimately identifying a rare trigger issue that API testing could not detect
+* Developed a fully automated testing library that detects game flows and plays games automatically using OpenCV and PyAutoGUI, identifies screen information through object detection to verify game logic and compare frontend data with the data scraped from our website's backstage, and generates test reports in HTML, ultimately identifying a rare trigger issue that API testing could not detect
 * Trained three partners in Python through generating questionnaires and examples, enabling them to independently utilize my library and handle their respective parts to extract additional information with machine learning
-* Represented the main programmer for automated testing on a business trip: confirmed that the online website was updated successfully, discussed the priorities for each test case with the project manager, and listed the testing time of each game after introducing automated testing
+* Represented the main programmer for automated testing on a business trip to confirm that the online website was updated successfully, discuss the priorities for each test case with the project manager, and list the testing time of each game after introducing automated testing
 
 
 TECHNICAL SKILLS
@@ -40,6 +42,8 @@ Expert: Python (Deep Learning related Library : TensorFlow, Keras), C#, C++, Jav
 * Leetcode Contest Rating 1953, global rank top 3.19%
 Experienced: Docker, Go, Android Studio, HTML, JavaScript, MATLAB, Lua
 Languages: Chinese, English
+
+
 JOURNAL PAPERS
 Activated melanocytes and senescent collagen fibers predict laser-treated melasma outcomes: An optical biopsy–based prospective cohort study        May 2025
 Yen-Jen Wang, Chang-Cheng Chang, Yu-Hung Wu, Ling Huang, I-Ling Chen, Yu-Chang Shih, Hsing Cheng, Jia-Wei Shen, Meng-En Lu, Hsiu-Mei Chiang, and Bor-Shyh Lin
@@ -57,4 +61,7 @@ Feasibility of high-cellular-resolution full-field, artificial-intelligence-assi
 Lai-Ying Lu, Yi-Ting Chen, I-Ling Chen, Yu-Chang Shih, Rosalie Tzu-Li Liu, Yi-Jing Lai, and Chau Yee Ng
 * Bioengineering 2024, 11(2), 196
 * https://doi.org/10.3390/bioengineering11020196
+
+
+If there is a second page it should be full !!
 [a]printed version should list the whole url
