@@ -3,36 +3,36 @@ shih.yuc@northeastern.edu • (+1) 408-210-4509 • LinkedIn • Github[a]
 
 
 EDUCATION
-Northeastern University, San Jose, CA        September 2025 - May 2027
+Northeastern University, San Jose, CA        September 2025 - April 2027
 Master of Science in Artificial Intelligence
 
 
 National Sun Yat-sen University, Kaohsiung, Taiwan        September 2015 - June 2019
 Bachelor of Science in Computer Science and Engineering
-* Capstone Project: Real-time System of Identifying Coin, an Android app that recognizes all coin types in the database from images with 98% accuracy, using a CNN model with a CapsNet structure.
+* Capstone Project: Real-time System of Identifying Coins, an Android app that recognizes all coin types in the database from images with 98% accuracy, using a CNN model with a CapsNet structure.
 * Award: Excellent Student Award (2019)
 
 
 EXPERIENCE
 Apollo Medical Optics, Ltd., Taipei, Taiwan         May 2022 - August 2023
 Algorithm Engineer
-* Developed novel cell detection algorithms for OCT images in C++, such as subtracting white and black Frangi values to reduce misidentification at collagen Y-shaped intersections
-* Implemented C++ counterparts for manager’s MATLAB algorithms by researching academic papers and official docs
-* Improved and optimized algorithms to achieve the best balance between efficiency and accuracy, producing high-quality data that supported three research publications
-* Managed a 3D nucleus dense segmentation project with StarDist 3D CNN model, achieving 80% accuracy after improving performance by 3% through model adjustments and 5% through post-processing rules
+* Developed novel cell detection algorithms for OCT images in C++, including subtracting white and black Frangi values to reduce misidentification at collagen Y-shaped intersections
+* Implemented C++ counterparts to the manager's MATLAB algorithms by researching academic papers and official docs
+* Improved and optimized algorithms to achieve the best balance between efficiency and accuracy, yielding [b]high-quality data that contributed to [c]three research publications
+* Managed a 3D nucleus dense segmentation project using StarDist 3D CNN model, achieving 80% accuracy after improving performance by 3% through model tuning and 5% through post-processing rules
 * As the contact person for the clinical department, assisted colleagues by creating solutions using C#, such as highlighting mask result differences between versions and automating data generation
-* Discovered illogical code in the image preprocessing procedure while writing specifications, and created a program that automatically adjusts parameters to align with others’ modifications, reducing gap to 6% despite constraints of algorithm
+* Discovered illogical code in the image preprocessing procedure while writing specifications, and coded a program that automatically adjusts parameters to align with modifications, reducing the gap to 6% despite constraints of algorithm
 
 
 Future Tech, Taipei, Taiwan        
 Backend Engineer        August 2021 - March 2022
-* Used Lua to develop four games integrated into the backend server, by implementing game logic and computer AI reactions, connecting the backend server to both the frontend and the website's backstage through RPC and API, computing game results, and saving them in the database
-* Optimized server performance by balancing the usage of each database through a designated hash function designed for user ID patterns, increasing player capacity by 20%
-* Updated server management tools: deployed and managed Nginx servers in a Docker environment, configured settings to connect these servers, and integrated Redis with MySQL to improve performance through asynchronous databases
+* Developed four games integrated in the backend server with Lua, by implementing game logic and AI reactions, connecting the backend server to both the frontend and the website's backstage through RPC and API, computing game results, and saving them in the database
+* Optimized server performance by balancing the usage of each database through a designated hash function designed for user ID patterns, ultimately increasing player capacity by 20%
+* Updated server management tools by deploying and managing Nginx servers in a Docker environment, configuring server connection settings, and integrating Redis with MySQL to improve performance through asynchronous databases
 
 
 Automated Testing Engineer        July 2020 - August 2021
-* Developed a fully automated testing library that detects game flows and plays games automatically using OpenCV and PyAutoGUI, identifies screen information through object detection to verify game logic and compare frontend data with the data scraped from our website's backstage, and generates test reports in HTML, ultimately identifying a rare trigger issue that API testing could not detect
+* Developed a fully automated testing library that detects game flows and plays games automatically using OpenCV and PyAutoGUI, identifies screen information through object detection to verify game logic and compare frontend data with the data scraped from our website's backstage, and generates test reports in HTML, ultimately identified a rare trigger issue that API testing could not detect
 * Trained three partners in Python through generating questionnaires and examples, enabling them to independently utilize my library and handle their respective parts to extract additional information with machine learning
 * Represented the main programmer for automated testing on a business trip to confirm that the online website was updated successfully, discuss the priorities for each test case with the project manager, and list the testing time of each game after introducing automated testing
 
@@ -65,3 +65,5 @@ Lai-Ying Lu, Yi-Ting Chen, I-Ling Chen, Yu-Chang Shih, Rosalie Tzu-Li Liu, Yi-Ji
 
 If there is a second page it should be full !!
 [a]printed version should list the whole url
+[b]yielding / producing
+[c]contributed to / supported

@@ -1,0 +1,2 @@
+我的貢獻%數可以合併
+	Managed a 3D nucleus dense segmentation project with StarDist 3D CNN model, after model adjustments and additional post-processing rules, improving performance by 8% and achieving 80% accuracy
