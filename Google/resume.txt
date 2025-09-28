@@ -9,7 +9,7 @@ Master of Science in Artificial Intelligence
 
 National Sun Yat-sen University, Kaohsiung, Taiwan        September 2015 - June 2019
 Bachelor of Science in Computer Science and Engineering
-* Capstone Project: Real-time System of Identifying Coins, an Android app that recognizes all coin types in the database from pictures with 98% accuracy, using a CNN model with a CapsNet structure.
+* Capstone Project: Real-time System of Identifying Coins, an Android app that recognizes all coin types in the database from pictures with 98% accuracy, using a CNN model with a CapsNet structure
 * Award: Excellent Student Award (2019)
 
 
@@ -20,7 +20,7 @@ Algorithm Engineer
 * Implemented C++ counterparts to the manager's MATLAB algorithms by researching academic papers and official docs
 * Improved and optimized algorithms to achieve the best balance between efficiency and accuracy, yielding [b]high-quality data that contributed to [c]three research publications
 * Managed a 3D nucleus dense segmentation project using StarDist 3D CNN model, achieving 80% accuracy after improving performance by 3% through model tuning and 5% through post-processing rules
-* Served as the contact person for the clinical department, assisting colleagues by coding C# solutions to solve their daily problems, such as highlighting mask result differences between versions and automating data generation to save time.
+* Served as the clinical department contact, assisting colleagues by coding C# solutions to solve their problems, such as highlighting masked result differences between versions and automating data generation to save time on routine tasks
 * Discovered illogical code in the image preprocessing procedure while writing specifications, and coded a program that automatically adjusts parameters to align with modifications, reducing the gap to 6% despite constraints of algorithm
 
 
@@ -42,30 +42,6 @@ Programming Languages (order by proficiency): Python, C#, C++, Java, Lua, Go, Ja
 * Leetcode Contest Rating 1953, global rank top 3.18%
 Machine Learning: TensorFlow, Keras, Scikit-Learn, Numpy, Pandas
 Software Development Tools: Git, Docker, Android Studio, Redis, MySQL        Languages: Chinese, English
-
-
-JOURNAL PAPERS
-Activated melanocytes and senescent collagen fibers predict laser-treated melasma outcomes: An optical biopsy–based prospective cohort study        May 2025
-Yen-Jen Wang, Chang-Cheng Chang, Yu-Hung Wu, Ling Huang, I-Ling Chen, Yu-Chang Shih, Hsing Cheng, Jia-Wei Shen, Meng-En Lu, Hsiu-Mei Chiang, and Bor-Shyh Lin
-* Photodiagnosis and Photodynamic Therapy, Volume 54, August 2025
-* https://doi.org/10.1016/j.pdpdt.2025.104648
-
-
-Photoaging features of melasma: An in vivo layered and quantitative analysis using computer-aided detection of cellular resolution full-field optical coherence tomography        March 2024
-Chang-Cheng Chang, Yen-Jen Wang, Ling Huang, I-Ling Chen, Yu-Chang Shih, Jia-Wei Shen, Meng-En Lu, Hsiu-Mei Chiang, Bor-Shyh Lin, and Yu-Hung Wu
-* Journal of the European Academy of Dermatology and Venereology, Volume 38, Issue 10, Pages e870-e873
-* https://doi.org/10.1111/jdv.19971
-
-
-Feasibility of high-cellular-resolution full-field, artificial-intelligence-assisted, real-time optical coherence tomography in the evaluation of vitiligo: A prospective longitudinal follow-up study        February 2024
-Lai-Ying Lu, Yi-Ting Chen, I-Ling Chen, Yu-Chang Shih, Rosalie Tzu-Li Liu, Yi-Jing Lai, and Chau Yee Ng
-* Bioengineering 2024, 11(2), 196
-* https://doi.org/10.3390/bioengineering11020196
-
-
-If there is a second page it should be full !!
-
-
 [a]printed version should list the whole url
 [b]yielding / producing
 [c]contributed to / supported
