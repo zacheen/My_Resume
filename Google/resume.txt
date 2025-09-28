@@ -29,8 +29,6 @@ Backend Engineer        August 2021 - March 2022
 * Developed four games integrated in the backend server with Lua, by implementing game logic and AI reactions, connecting the backend server to both the frontend and the website's backstage through RPC and API, computing game results, and saving them in the database
 * Optimized server performance by distributing the usage of each database through a designated hash function designed for user ID patterns, ultimately increasing player capacity by 20%
 * Updated server management tools by deploying and managing Nginx servers in a Docker environment, configuring server connection settings, and integrating Redis with MySQL to improve performance through asynchronous databases
-
-
 Automated Testing Engineer        July 2020 - August 2021
 * Developed a versatile automated testing library that detects game flows and plays games automatically using OpenCV and PyAutoGUI, identifies screen information through object detection to verify game logic and compare frontend data with the data scraped from our website's backstage, and generates test reports in HTML, ultimately identified a rare trigger issue that API testing could not detect
 * Trained three partners in Python through generating questionnaires and examples, enabling them to independently utilize my library and handle their respective parts to extract additional information with machine learning
@@ -38,9 +36,10 @@ Automated Testing Engineer        July 2020 - August 2021
 
 
 TECHNICAL SKILLS
-Programming Languages: Python, C#, C++, Java, Go, Lua, JavaScript, HTML, MATLAB
+Programming Languages (order by proficiency): Python, C#, C++, Java, Lua, Go, JavaScript, HTML, MATLAB
 * Leetcode Contest Rating 1953, global rank top 3.19%
-Software Development Tools and Libraries: TensorFlow, Keras, Docker, Android Studio, Redis, MySQL
+Machine Learning: TensorFlow, Keras, Scikit-Learn, Numpy, Pandas
+Software Development Tools: Git, Docker, Android Studio, Redis, MySQL        
 Languages: Chinese, English
 
 
